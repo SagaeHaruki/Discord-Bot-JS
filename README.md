@@ -1,5 +1,6 @@
-# Discord-bot
-Discord,js v14 discord bot
+### 🔨 Discord-bot Sample
+
+Discord Bot v14.0.x 
 
 Custom Discord bot, Currently being updated to v14.13.0 from v14.0.x
 
