@@ -1,11 +1,16 @@
-### 🔨 Discord-bot Sample
+### 🔨 Discord JS Bot :
+Discord bot using JavaScript
 ---
-Discord Bot v14.0.x 
 
-Custom Discord bot, Currently being updated to v14.13.0 from v14.0.x
-Only the source code is being provided as the users can customize all the packages needed
-Database is currently being created atm, stay tuned
+<h1>Dev's Note:</h1>
 
-- [Oct. 13, 2023]
-- Will create a new one but in latest version of Djs sometime in the future, just need to finished the C# version before year ends
-- CHECK IT OUT HERE : https://github.com/SagaeHaruki/HayaseBot
+- Please note that the node modules are not included in the package, you'll have to install it manually
+- Proceed to (This link)[https://github.com/SagaeHaruki/Discord-Bot-JS/blob/main/package-lock.json]
+
+<h1>About the bot</h1>
+
+- This bot is only for educational and fun, not intented to be used as a Advertiser or Spammer bots
+- Currently using DJS V 14.6.x
+- 
+
+
