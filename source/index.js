@@ -12,7 +12,8 @@ client.buttons = new Collection();
 client.commandArray = [];
 
 const functionFolders = fs.readdirSync(`./source/functions`);
-for (const folder of functionFolders) {
+for (const folder of functionFolders) 
+{
    const functionData = fs.readdirSync(`./source/functions/${folder}`).filter(file => file.endsWith('.js'));
    for (const file of functionData) require(`./functions/${folder}/${file}`)(client);
 }
