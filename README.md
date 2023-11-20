@@ -11,6 +11,6 @@ Discord bot using JavaScript
 
 - This bot is only for educational and fun, not intented to be used as a Advertiser or Spammer bots
 - Currently using DJS V 14.6.x
-- 
+- This is currently on hold, as there are other projects that im into right now
 
 
